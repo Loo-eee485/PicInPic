@@ -1,1 +1,3 @@
-This is a guided project, as I am a current student of frontend development
+GUIDED PROJECT:
+The goal of this project was to create a picture within a picture.
+HTML, CSS, JavaScript
